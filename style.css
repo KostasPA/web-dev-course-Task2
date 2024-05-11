@@ -1,0 +1,31 @@
+.whatever ul li{
+    color:red
+    
+}
+
+li:hover{
+    color:darkgreen
+
+}
+
+#AnWhateverId{
+
+    font-size: x-large;
+}
+
+footer ~ h3{
+    font-style: oblique;
+
+}
+
+footer + p{
+    font-style: italic;
+}
+
+*{
+    text-align: center;
+}
+
+article > video{
+    font-weight: bold;
+}
